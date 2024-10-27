@@ -1,0 +1,8 @@
+name: CommandBlackList
+version: '${project.version}'
+main: org.reuac.commandblacklist.CommandBlackList
+commands:
+  commandblacklist:
+    description: "commandblacklist"
+    aliases: cblist
+    permission: commandblacklist.main
